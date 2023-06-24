@@ -47,9 +47,7 @@ class script(object):
 
     SOURCE_TXT = """<b>NOTE:</b>
 😔 Sᴏʀʀʏ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ Nᴀʜɪ Mɪʟᴇɢᴀ ❌ 
-<b>DEV:</b>
-
-- <a href=https://t.me/elite_craft_official>[DIGITAL]</a> """ #please don't change repo link give credit :)
+<b>DEV:</b>- <a href=https://t.me/elite_craft_official>[DIGITAL]</a> """ #please don't change repo link give credit :)
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
